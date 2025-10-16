@@ -426,4 +426,7 @@ footer {
     .form-section .form-group {
         margin: 5px 0;
     }
+    .about-section__profile-photo {
+        margin: 0;
+    }
 }
