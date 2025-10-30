@@ -308,6 +308,12 @@ footer {
     color: var(--color-dop-main);
 }
 
+.contact-section__h2 {
+    margin-bottom: 40px;
+    color: var(--color-main);
+    font-size: 60px;
+}
+
 @media (max-width: 992px) {
     h1 {
         font-size: 60px;
