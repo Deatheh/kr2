@@ -150,15 +150,15 @@ main section {
 }
 
 .skills-section .progress {
-    background-color: var(--color-dop-main);
+    background-color: var(--color-link);
     height: 30px;
 }
 
 .skills-section .progress-bar {
     font-weight: 700;
     font-family: var(--font-supheader);
-    background-color: var(--color-link);
-    color: var(--color-dop-main);
+    background-color: var(--color-dop-main);
+    color: #fff;
     font-size: 20px;
 }
 
